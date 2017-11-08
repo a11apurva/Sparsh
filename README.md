@@ -4,10 +4,10 @@ An android app created as part of assignment project for the course Human Comput
 
 ## Team
 
-*Aditya Krishn
-*Anubhav Apurva
-*Yashashvi Tarana
-*Rishi Bhatia
+* Aditya Krishn
+* Anubhav Apurva
+* Yashashvi Tarana
+* Rishi Bhatia
 
 Department of Information and communication Technology,
 Manipal Institute of Technology,
