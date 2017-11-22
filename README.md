@@ -19,6 +19,6 @@ Many children are born with birth defect in hands. These defects go unnoticed in
 
 This app contains pictures of these defects and their description. The teachers in Government schools, can use these as a reference to mark any such defect in their students.
 
-The teacher will upload a picture of the hand, which will be reviewed by the doctors of KMC. If they approve it as a defect, the teacher can fill up rest of the details and ask for an appointment.
+A teacher can upload a picture of student's hand, which will be reviewed by the doctors of KMC. If they approve it as a defect, the teacher can fill up rest of the details and ask for an appointment.
 
 The doctors will then set up an appointment according to their schedule in the hospital, and the teacher will be notified about it. The teacher will also get a reminder a day before the appointment.
